@@ -9,10 +9,10 @@ environment:
 dependencies:
   http: ^1.1.0
   uuid: ^4.1.0
-  flutter_webrtc: ^0.9.45
-  web_socket_channel: ^2.4.0
+  flutter_webrtc: ^0.10.6
+  web_socket_channel: ^3.0.0
   events_emitter: ^0.5.2
 dev_dependencies:
-  lints: ^2.1.1
+  lints: ^4.0.0
   flutter_test:
     sdk: flutter
